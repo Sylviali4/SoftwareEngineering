@@ -1,16 +1,20 @@
-# Lab 1 Documentation
+# CS 262 - Lab 1 
 # Student Name: Lujia Li
 # Email: ll44
 # Date: Sep 7, 2024
-# This README.md file documents the application and a brief explaination of the purpose of each of the following files/directories in my project code.
 
+This lab is based on https://cs.calvin.edu/courses/cs/262/kvlinden/01introduction/lab.html.
 
-## Files and Directories
+This README.md file documents the application and a brief explaination of the purpose of each of the following files/directories in my project code.
 
-app/(tabs)/index.tsx: This file sets up the main HomeScreen component with a parallax scroll view, a welcome message, and instructions for using and setting up the app.
+## Answers to the lab questions:
 
-package.json: This file contains project details, dependencies, and scripts for running, testing, and building the app on various platforms.
+    Files and Directories:
 
-node_modules/: This directory contains all the project’s installed node packages.
+    app/(tabs)/index.tsx: This file sets up the main HomeScreen component with a parallax scroll view, a welcome message, and instructions for using and setting up the app.
 
-.gitignore: This file specifies which files and directories should be ignored by Git version control to avoid committing unnecessary files.
+    package.json: This file contains project details, dependencies, and scripts for running, testing, and building the app on various platforms.
+
+    node_modules/: This directory contains all the project’s installed node packages.
+
+    .gitignore: This file specifies which files and directories should be ignored by Git version control to avoid committing unnecessary files.
