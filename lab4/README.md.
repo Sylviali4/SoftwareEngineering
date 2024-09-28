@@ -1,0 +1,29 @@
+# CS 262 - Lab 4 
+# Student Name: Lujia Li, Jacob Tocila
+# Email: ll44, jt42
+# Date: Sep 27, 2024
+
+This lab is based on https://cs.calvin.edu/courses/cs/262/kvlinden/04analysis/lab.html.
+
+hacks that I had to make: Build a multiple-page application using React Navigation.
+
+## Answers to the lab questions:
+    answer #a 
+    The Stack Navigator is used to implement separate pages of an application in React Native.
+
+    answer #b
+    The Route in React Navigation is analogous to a URL/URI on the Web.
+
+    answer #c
+    No, we cannot just say `navigation.navigate('Details')` because it would execute the navigation 
+    immediately when the component is rendered, rather than waiting for the button press event.
+
+    answer #d
+    The hard-coded movie list is displayed on the homepage using a FlatList component that maps over 
+    the reviews array and renders each movie title as a TouchableOpacity, allowing users to tap on a 
+    title to navigate to the details screen.
+
+    answer #e
+    The details screen shows the selected movie's detail by accessing the parameters passed from the 
+    previous screen. It retrieves these details from route.params, which contains the information about 
+    the chosen movie.
