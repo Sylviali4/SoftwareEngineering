@@ -1,0 +1,26 @@
+# CS 262 - Lab 5
+# Student Name: Lujia Li
+# Email: ll44
+# Date: October 5, 2024
+
+This lab is based on https://cs.calvin.edu/courses/cs/262/kvlinden/05design/lab.html.
+
+hacks that I had to make: Implemented stack navigation with multiple screens, refactored the code for better maintainability, 
+added "About" page and a shared header with an "About" button for navigation.
+
+## Answers to the lab questions:
+    answer #a 
+    The refactoring phase centralized the styles and modularized the code, making it more maintainable, 
+    reusable, and easier to update.
+
+    answer #b
+    Export commands allow components and functions to be made available to other parts of the application, 
+    enabling code sharing across files.
+
+    answer #c
+    The stack in this application manages the navigation between different screens, 
+    allowing users to navigate forward and back through a stack of screens (e.g., Home, Details, About).
+
+    The deepest this stack can get is 3 levels deep: Home → Details → About. 
+    Each new screen pushes onto the stack, and users can navigate back by popping screens off the stack.
+
