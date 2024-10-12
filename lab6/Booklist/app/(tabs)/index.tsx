@@ -16,6 +16,9 @@ const App = () => {
       const response = await fetch('https://www.googleapis.com/books/v1/volumes?q=jane%20austen');
       const json = await response.json();
 
+      // Log the entire API response to check its structure
+      // console.log(json);
+
       // Check if the response has an error
       if (json.error) {
         console.error(json.error);
