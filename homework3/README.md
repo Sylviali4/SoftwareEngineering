@@ -1,6 +1,4 @@
 # CS 262 - Homework 3
-# Student Name: Lujia Li
-# Email: ll44
 # Date: November 16, 2024
 
 This homework is based on https://cs.calvin.edu/courses/cs/262/kvlinden/06hci/homework.html.
