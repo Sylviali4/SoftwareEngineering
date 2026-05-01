@@ -1,6 +1,4 @@
 # CS 262 - Lab 2 
-# Student Name: Lujia Li, Jacob Tocila
-# Email: ll44, jt42
 # Date: Sep 13, 2024
 
 This lab is based on https://cs.calvin.edu/courses/cs/262/kvlinden/02management/lab.html.
