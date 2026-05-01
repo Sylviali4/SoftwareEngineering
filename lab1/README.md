@@ -1,6 +1,4 @@
 # CS 262 - Lab 1 
-# Student Name: Lujia Li
-# Email: ll44
 # Date: Sep 7, 2024
 
 This lab is based on https://cs.calvin.edu/courses/cs/262/kvlinden/01introduction/lab.html.
