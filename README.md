@@ -1,2 +1,2 @@
-# CS 262 
+# Some software engineering projects based on CS 262 
 
